@@ -1,0 +1,32 @@
+.img-resize {
+  width: 85%;
+  height: 300px;
+  clip-path: circle();
+  /* padding: 5px; */
+}
+.container {
+  border: 2px solid blue;
+  background-color: lightblue;
+  margin: 15px;
+  padding: 15px;
+  border-radius: 15px;
+  line-height: 50px;
+  width: 75%;
+}
+.custom-font-weight {
+  font-weight: bold;
+}
+.rating {
+  margin-top: 15px;
+  color: goldenrod;
+}
+.font {
+  font-size: 35px;
+}
+.facebook {
+  margin-right: 30px;
+  color: rgba(0, 0, 255, 0.781);
+}
+.skype {
+  color: #00aff0;
+}

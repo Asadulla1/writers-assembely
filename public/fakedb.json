@@ -1,0 +1,122 @@
+[
+  {
+    "key": "writer01",
+    "name": "Rolf Dobelli",
+    "bestbook": "The art of Thinking Clearly",
+    "age": 55,
+    "country": "Swizerland",
+    "img": "https://c8.alamy.com/comp/E8GPCG/the-swiss-author-rolf-dobelli-at-the-book-fair-in-frankfurt-am-main-E8GPCG.jpg",
+    "salary": 15000,
+    "rating": 4.5
+  },
+  {
+    "key": "writer02",
+    "name": "Simon Sneak",
+    "bestbook": "Start With Why",
+    "age": 48,
+    "country": "English",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCLJ5Nlc9FYyqnkghNLz86smgqYuAAngX0IXUAD12RsD0XES9U",
+    "salary": 10000,
+    "rating": 4.7
+  },
+  {
+    "key": "writer03",
+    "name": "Charles Duhigg",
+    "bestbook": "The Power Of Habit",
+    "age": 48,
+    "country": "American",
+    "img": "https://charlesduhigg.com/wp-content/uploads/2016/02/duhigg-headshot.png",
+    "salary": 20000,
+    "rating": 4.8
+  },
+  {
+    "key": "writer04",
+    "name": "George Orwell",
+    "bestbook": "1984",
+    "age": 46,
+    "country": "English",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyCP4-Eaj1KKUGO1zOHK5BobEUCyFebsKswibULjP8Fh64q5hV",
+    "salary": 12000,
+    "rating": 4.3
+  },
+  {
+    "key": "writer05",
+    "name": "Jonathan Swift",
+    "bestbook": "Gulliver's Travels",
+    "age": 77,
+    "country": "English",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jonathan_Swift_by_Charles_Jervas_detail.jpg/1200px-Jonathan_Swift_by_Charles_Jervas_detail.jpg",
+    "salary": 10000,
+    "rating": 4.7
+  },
+  {
+    "key": "writer06",
+    "name": "James Clear",
+    "bestbook": "Atomic Habits",
+    "age": 45,
+    "country": "American",
+    "img": "https://heightzone.com/wp-content/uploads/2021/06/e1940991ea89fbe8b05a78759b626a.jpg",
+    "salary": 13000,
+    "rating": 4.8
+  },
+  {
+    "key": "writer07",
+    "name": "Robert Kiyosaki",
+    "bestbook": "Rich Dad Poor Dad",
+    "age": 74,
+    "country": "American",
+    "img": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSeGmFH7wCXYUZiW82q7FLKBPskO4ZjC_vSj-dBKEVx5ExD6x-sS15UylFN-VCR",
+    "salary": 17000,
+    "rating": 5
+  },
+  {
+    "key": "writer08",
+    "name": "Jay Shetty",
+    "bestbook": "Think Like a Monk",
+    "age": 34,
+    "country": "British",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ggwWDFT5n7sg-T-b--86DMvPCAw4sBWpT4nJGHzTfXLx-FwW",
+    "salary": 25000,
+    "rating": 4.9
+  },
+  {
+    "key": "writer09",
+    "name": "Daniel Kahneman",
+    "bestbook": "Thinking, Fast and Slow",
+    "age": 87,
+    "country": "American",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/amzn-author-media-prod/u5bqpd1erkokht2vl0jl3iqmfb._SX450_.jpg",
+    "salary": 5000,
+    "rating": 4.2
+  },
+  {
+    "key": "writer10",
+    "name": "Eckhart Tolle",
+    "bestbook": "The Power of Now",
+    "age": 73,
+    "country": "Canadian",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Eckhart_Tolle_side.jpg",
+    "salary": 19000,
+    "rating": 4.7
+  },
+  {
+    "key": "writer11",
+    "name": "Cal Newport",
+    "bestbook": "Deep Work",
+    "age": 39,
+    "country": "American",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_T6Tvn3-1K7LAxxREi3jCFdHbYc7WyqhpJ1tQ8U1PEjhn3Ro0IlVJaYwf90bmHoR3OQo&usqp=CAU",
+    "salary": 14000,
+    "rating": 4.3
+  },
+  {
+    "key": "writer12",
+    "name": "Phil Knight",
+    "bestbook": "Shoe Dog",
+    "age": 83,
+    "country": "American",
+    "img": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQImUw2S8naf4i_yFRToFwWhmNFNiDmtu6UxvWH-TwX9igH_EcZwMTeUfnyezcx",
+    "salary": 30000,
+    "rating": 5
+  }
+]
